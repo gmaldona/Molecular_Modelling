@@ -91,7 +91,7 @@ class Startup {
 }
 ```
 
-This class contains all of the methods that displays the menus and grabs user input
+This class contains all of the methods that displays the menus and grabs user input. Other windows within this class displays information about the molecule entered
 
 <img src = "Media/InputMolecule.png" width=300 align="center"/>
 
