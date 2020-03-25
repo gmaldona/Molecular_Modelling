@@ -1,6 +1,8 @@
 # Molecular Modelling (WIP)
 Java/Processing 3 application that simulates interaction between atoms in a molecule
 
+The classes shown below are abstracted and only shows the most important variables and methods
+
 ![Alt Text](https://media.giphy.com/media/idkWMfHcnuBpbJ3g9T/200w_d.gif)
 
 ## This program is divided into seven different classes:
